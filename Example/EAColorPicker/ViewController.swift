@@ -23,6 +23,11 @@ class ViewController: UIViewController {
         // Color selected listener
         colorPicker.onColorSelected = { color in
             print(color)
+            
+            if #available(iOS 10.0, *) {
+                print(self.colorPicker.getColor())
+                print(self.colorPicker.getHexColor())
+            }
         }
     }
 

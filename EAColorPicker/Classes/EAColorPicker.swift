@@ -11,6 +11,17 @@ open class EAColorPicker: UIView, ColorWheelDelegate, BrightnessViewDelegate {
     
     open var onColorSelected: ((_ color: UIColor)->Void)?
     
+    @available(iOS 10.0, *)
+    open func getColor() -> UIColor {
+        return color.uiExtendedSRGBColorSpaceToUIColor
+    }
+    
+    @available(iOS 10.0, *)
+
+    open func getHexColor() -> String {
+        return getColor().toHex()
+    }
+    
     var colorWheel: ColorWheel!
     var brightnessView: BrightnessView!
     var selectedColorView: SelectedColorView!
