@@ -1,5 +1,5 @@
 PODS:
-  - EAColorPicker (0.1.2)
+  - EAColorPicker (0.1.3)
 
 DEPENDENCIES:
   - EAColorPicker (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  EAColorPicker: 8d021c01cac108fca7e2aee74a92e202b3d87c57
+  EAColorPicker: 56beab8850480638cb7fce151692cee37246ee5f
 
 PODFILE CHECKSUM: 2341bf0ea7880cffec534777a7c4aeaaa64b28a1
 

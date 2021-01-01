@@ -26,7 +26,7 @@ open class EAColorPicker: UIView, ColorWheelDelegate, BrightnessViewDelegate {
     var brightnessView: BrightnessView!
     var selectedColorView: SelectedColorView!
     
-    open var color: UIColor!
+    open var color: UIColor = .white
     var hue: CGFloat = 1.0
     var saturation: CGFloat = 1.0
     var brightness: CGFloat = 1.0
