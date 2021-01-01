@@ -43,7 +43,7 @@ open class EAColorPicker: UIView, ColorWheelDelegate, BrightnessViewDelegate {
     
     func initialize() {
         self.backgroundColor = UIColor.clear
-        setViewColor(.white)
+        setViewColor(UIColor(red: 1, green: 1, blue: 1, alpha: 1))
     }
     
     open func setViewColor(_ color: UIColor) {
