@@ -1,8 +1,8 @@
 {
   "name": "EAColorPicker",
   "version": "0.1.0",
-  "summary": "A short description of EAColorPicker.",
-  "description": "TODO: Add long description of the pod here.",
+  "summary": "EAColorPicker is a color picker library.",
+  "description": "EAAlert is a color picker library with millions of colors.",
   "homepage": "https://github.com/aydin-emre/EAColorPicker",
   "license": {
     "type": "MIT",
@@ -18,5 +18,7 @@
   "platforms": {
     "ios": "9.0"
   },
-  "source_files": "EAColorPicker/Classes/**/*"
+  "swift_versions": "5.0",
+  "source_files": "EAColorPicker/Classes/**/*",
+  "swift_version": "5.0"
 }

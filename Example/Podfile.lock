@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  EAColorPicker: a47d4da89824165d7f7462287da51a108e7e5323
+  EAColorPicker: 3bba8ac75ae0c1de9a983ff1add6c49d61a8def8
 
 PODFILE CHECKSUM: 2341bf0ea7880cffec534777a7c4aeaaa64b28a1
 
