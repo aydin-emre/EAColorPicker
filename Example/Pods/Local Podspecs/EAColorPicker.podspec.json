@@ -1,0 +1,22 @@
+{
+  "name": "EAColorPicker",
+  "version": "0.1.0",
+  "summary": "A short description of EAColorPicker.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/aydin-emre/EAColorPicker",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "aydin-emre": "ea@ea.tc"
+  },
+  "source": {
+    "git": "https://github.com/aydin-emre/EAColorPicker.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "EAColorPicker/Classes/**/*"
+}

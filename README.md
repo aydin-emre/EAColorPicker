@@ -22,7 +22,7 @@ pod 'EAColorPicker'
 
 ## Author
 
-aydin-emre, ea@ea.tc
+aydin-emre, www.emr.ee
 
 ## License
 

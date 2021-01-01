@@ -1,0 +1,16 @@
+PODS:
+  - EAColorPicker (0.1.0)
+
+DEPENDENCIES:
+  - EAColorPicker (from `../`)
+
+EXTERNAL SOURCES:
+  EAColorPicker:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  EAColorPicker: a47d4da89824165d7f7462287da51a108e7e5323
+
+PODFILE CHECKSUM: 2341bf0ea7880cffec534777a7c4aeaaa64b28a1
+
+COCOAPODS: 1.10.0
